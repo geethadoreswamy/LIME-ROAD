@@ -1,0 +1,239 @@
+{
+  "products":{
+    "WOMEN": [
+      {
+      "id": "1",
+
+        "product_name": "Maxi Dress",
+        "description": "A long, flowing dress perfect for summer.",
+        "new_price": 949.99,
+        "old_price": 1279.99,
+        "category": "Dresses",
+        "rating": 4.5,
+        "quantity": 30,
+        "sizes": ["S", "M", "L"],
+        "offer_percent": 37,
+        "image": "/productsImages/dress1.avif"
+
+      },
+      {
+      "id": "2",
+
+        "product_name": "Cocktail Dress",
+        "description": "A stylish dress for evening events.",
+        "new_price": 1259.99,
+        "old_price": 2099.99,
+        "category": "Dresses",
+        "rating": 4.7,
+        "quantity": 20,
+        "sizes": ["S", "M", "L"],
+        "offer_percent": 40,
+        "image": "/productsImages/dress2.avif"
+
+      },
+      {
+      "id": "3",
+
+        "product_name": "Tunic",
+        "description": "A formal top that can be paired with skirts or trousers.",
+        "new_price": 1029.99,
+        "old_price": 949.99,
+        "category": "Tops",
+        "rating": 4.4,
+        "quantity": 50,
+        "sizes": ["S", "M", "L"],
+        "offer_percent": 40,
+        "image": "/productsImages/top1.avif"
+
+      },
+      {
+      "id": "4",
+
+        "product_name": "Tunic",
+        "description": "A long top that can be worn with leggings or jeans.",
+        "new_price": 1119.99,
+        "old_price": 834.99,
+        "category": "Tops",
+        "rating": 4.6,
+        "quantity": 60,
+        "sizes": ["S", "M", "L"],
+        "offer_percent": 43,
+        "image": "/productsImages/top2.avif"
+
+      },
+      {
+      "id": "5",
+
+        "product_name": "Jeans",
+        "description": "A staple in any wardrobe, available in various fits like skinny, straight, and bootcut.",
+        "new_price": 2149.99,
+        "old_price": 1179.99,
+        "category": "Bottoms",
+        "rating": 4.7,
+        "quantity": 35,
+        "sizes": ["S", "M", "L"],
+        "offer_percent": 37,
+        "image": "/productsImages/jeans1.avif"
+
+      },
+      {
+      "id": "6",
+
+        "product_name": "Jacket",
+        "description": "A lightweight option for cooler weather.",
+        "new_price": 2139.99,
+        "old_price":1969.99,
+        "category": "Outerwear",
+        "rating": 4.4,
+        "quantity": 45,
+        "sizes": ["S", "M", "L"],
+        "offer_percent": 42,
+        "image": "/productsImages/jacket1.avif"
+
+      },
+      {
+      "id": "7",
+
+        "product_name": "Coat",
+        "description": "A heavier option for winter, available in styles like trench, pea coat, and parka.",
+        "new_price": 2089.99,
+        "old_price": 1149.99,
+        "category": "Outerwear",
+        "rating": 4.5,
+        "quantity": 25,
+        "sizes": ["S", "M", "L"],
+        "offer_percent": 40,
+        "image": "/productsImages/coat1.avif"
+
+      },
+      {
+      "id": "8",
+
+        "product_name": "Top",
+        "description": "Provides support during workouts.",
+        "new_price": 2219.99,
+        "old_price": 1234.99,
+        "category": "Outerwear",
+        "rating": 4.7,
+        "quantity": 50,
+        "sizes": ["S", "M", "L"],
+        "offer_percent": 43,
+        "image": "/productsImages/top3.avif"
+
+      },
+      {
+      "id": "9",
+
+        "product_name": "Hoodie",
+        "description": "A casual and warm layer for cooler weather.",
+        "new_price": 1039.99,
+        "old_price": 859.99,
+        "category": "Outerwear",
+        "rating": 4.6,
+        "quantity": 35,
+        "sizes": ["S", "M", "L"],
+        "offer_percent": 33,
+        "image": "/productsImages/hooddie.avif"
+
+      },
+      {
+      "id": "10",
+
+        "product_name": "Jumpsuit",
+        "description": "A one-piece outfit that's both stylish and comfortable.",
+        "new_price": 1254.99,
+        "old_price": 989.99,
+        "category": "Dresses",
+        "rating": 4.5,
+        "quantity": 25,
+        "sizes": ["S", "M", "L"],
+        "offer_percent": 39,
+        "image": "/productsImages/jumpsuit.avif"
+
+      }
+    ],
+    "MEN": [
+      {
+        "id": "11",
+        "product_name": "Casual Shirt",
+        "description": "A classic cotton shirt for everyday wear.",
+        "new_price": 1229.99,
+        "old_price": 949.99,
+        "category": "Shirts",
+        "rating": 4.5,
+        "quantity": 40,
+        "sizes": ["S", "M", "L"],
+        "offer_percent": 40,
+        "image": "/productsImages/shirt1.avif"
+
+      },
+      {
+        "id": "12",
+        "product_name": "Formal Shirt",
+        "description": "A premium formal shirt for office or events.",
+        "new_price": 1339.99,
+        "old_price": 959.99,
+        "category": "Shirts",
+        "rating": 4.6,
+        "quantity": 35,
+        "sizes": ["S", "M", "L"],
+        "offer_percent": 33,
+        "image": "/productsImages/shirt2.avif"
+
+      },
+      {
+        "id": "13",
+        "product_name": "T-shirt",
+        "description": "A comfortable and stylish t-shirt.",
+        "new_price": 1419.99,
+        "old_price": 729.99,
+        "category": "Tops",
+        "rating": 4.4,
+        "quantity": 50,
+        "sizes": ["S", "M", "L"],
+        "offer_percent": 33,
+        "image": "/productsImages/tshirt1.avif"
+
+      },
+      {
+        "id": "14",
+        "product_name": "Jeans",
+        "description": "A classic pair of denim jeans.",
+        "new_price": 1849.99,
+        "old_price": 1079.99,
+        "category": "Bottoms",
+        "rating": 4.7,
+        "quantity": 35,
+        "sizes": ["S", "M", "L"],
+        "offer_percent": 37,
+        "image": "/productsImages/jeans2.avif"
+      },
+      {
+        "id": "15",
+        "product_name": "Chinos",
+        "description": "Stylish and comfortable chinos.",
+        "new_price": 1039.99,
+        "old_price": 859.99,
+        "category": "Bottoms",
+        "rating": 4.5,
+        "quantity": 30,
+        "sizes": ["S", "M", "L"],
+        "offer_percent": 33,
+        "image":"/productsImages/chinos.avif"
+      },
+      {
+        "id": "16",
+        "product_name": "Sweater",
+        "description": "A cozy sweater for winter.",
+        "new_price": 1234.99,
+        "old_price": 959.99,
+        "category": "Outerwear",
+        "rating": 4.6,
+        "quantity": 40,
+        "sizes": ["S", "M", "L"],
+        "offer_percent": 42,
+        "image": "/productsImages/sweater1.avif"
+      }
+    ]
+  }
+}
