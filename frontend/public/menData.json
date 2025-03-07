@@ -1,0 +1,375 @@
+{
+  "products":{
+    "MEN":{
+        "SHIRTS": [
+
+        {
+          "id": 51,
+          "name": "Formal Shirt",
+          "description": "Classic formal shirt for office wear.",
+          "price": 799,
+          "image": [
+            "/JsonImages/shirt1.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Formal",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 52,
+          "name": "Casual Shirt",
+          "description": "Comfortable casual shirt for daily wear.",
+          "price": 599,
+          "image": [
+            "/JsonImages/shirt2.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Casual",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 53,
+          "name": "Printed Shirt",
+          "description": "Trendy printed shirt for casual outings.",
+          "price": 699,
+          "image": [
+            "/JsonImages/shirt3.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Printed",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 54,
+          "name": "Designer Shirt",
+          "description": "Exclusive designer shirt with unique patterns.",
+          "price": 999,
+          "image": [
+            "/JsonImages/shirt4.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Designer",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 55,
+          "name": "Silk Shirt",
+          "description": "Luxurious silk shirt for formal events.",
+          "price": 1299,
+          "image": [
+            "/JsonImages/shirt5.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Silk",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 56,
+          "name": "Embroidered Shirt",
+          "description": "Beautifully embroidered shirt for special occasions.",
+          "price": 1099,
+          "image": [
+            "/JsonImages/shirt6.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Embroidered",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        }
+      ],
+      "TSHIRTS": [
+        {
+          "id": 57,
+          "name": "Graphic T-Shirt",
+          "description": "Trendy graphic t-shirt for casual outings.",
+          "price": 499,
+          "image": [
+            "/JsonImages/tshirt1.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Casual",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 58,
+          "name": "Printed T-Shirt",
+          "description": "Stylish printed t-shirt for casual wear.",
+          "price": 399,
+          "image": [
+            "/JsonImages/tshirt2.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Printed",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 59,
+          "name": "Designer T-Shirt",
+          "description": "Exclusive designer t-shirt with unique patterns.",
+          "price": 799,
+          "image": [
+            "/JsonImages/tshirt3.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Designer",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 60,
+          "name": "Polo T-Shirt",
+          "description": "Classic polo t-shirt for smart casual look.",
+          "price": 599,
+          "image": [
+            "/JsonImages/tshirt4.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Polo",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 61,
+          "name": "V-Neck T-Shirt",
+          "description": "Stylish v-neck t-shirt for casual outings.",
+          "price": 499,
+          "image": [
+            "/JsonImages/tshirt5.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "V-Neck",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 62,
+          "name": "Round Neck T-Shirt",
+          "description": "Comfortable round neck t-shirt for daily wear.",
+          "price": 399,
+          "image": [
+            "/JsonImages/tshirt6.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Round Neck",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        }
+      ],
+      "JEANS": [
+        {
+          "id": 63,
+          "name": "Slim Fit Jeans",
+          "description": "Comfortable slim fit jeans for everyday wear.",
+          "price": 899,
+          "image": [
+            "/JsonImages/jeans1.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Casual",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 64,
+          "name": "Straight Fit Jeans",
+          "description": "Classic straight fit jeans for casual outings.",
+          "price": 799,
+          "image": [
+            "/JsonImages/jeans2.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Casual",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 65,
+          "name": "Skinny Fit Jeans",
+          "description": "Trendy skinny fit jeans for a modern look.",
+          "price": 999,
+          "image": [
+            "/JsonImages/jeans3.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Skinny",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 66,
+          "name": "Ripped Jeans",
+          "description": "Stylish ripped jeans for casual wear.",
+          "price": 899,
+          "image": [
+            "/JsonImages/jeans4.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Ripped",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 67,
+          "name": "Stretchable Jeans",
+          "description": "Comfortable stretchable jeans for daily wear.",
+          "price": 799,
+          "image": [
+            "/JsonImages/jeans5.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Stretchable",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 68,
+          "name": "Classic Blue Jeans",
+          "description": "Comfortable classic blue jeans for everyday wear.",
+          "price": 899,
+          "image": [
+            "/JsonImages/jeans6.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Casual",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 69,
+          "name": "Faded Jeans",
+          "description": "Stylish faded jeans for a trendy look.",
+          "price": 799,
+          "image": [
+            "/JsonImages/jeans7.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Faded",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        }
+      ],
+      "TROUSERS": [
+        {
+          "id": 70,
+          "name": "Formal Trousers",
+          "description": "Classic formal trousers for office wear.",
+          "price": 999,
+          "image": [
+            "/JsonImages/trouser1.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Formal",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 71,
+          "name": "Casual Trousers",
+          "description": "Comfortable casual trousers for daily wear.",
+          "price": 799,
+          "image": [
+            "/JsonImages/trouser2.avif",
+            "/JsonImages/trouser3.avif",
+            "/JsonImages/trouser4.avif",
+            "/JsonImages/trouser5.avif",
+            "/JsonImages/trouser6.avif"
+
+
+
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Casual",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        }
+      ],
+      "JACKETS": [
+        {
+          "id": 72,
+          "name": "Leather Jacket",
+          "description": "Stylish leather jacket for a bold look.",
+          "price": 1999,
+          "image": [
+            "/JsonImages/jacket1.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Leather",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 73,
+          "name": "Denim Jacket",
+          "description": "Classic denim jacket for casual outings.",
+          "price": 1499,
+          "image": [
+            "/JsonImages/jacket2.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Denim",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 74,
+          "name": "Bomber Jacket",
+          "description": "Stylish bomber jacket for a sporty look.",
+          "price": 1799,
+          "image": [
+            "/JsonImages/jacket3.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Bomber",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 75,
+          "name": "Winter Parka",
+          "description": "Warm winter parka for cold weather.",
+          "price": 2499,
+          "image": [
+            "/JsonImages/jacket4.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Winter",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 76,
+          "name": "Rain Jacket",
+          "description": "Waterproof rain jacket for rainy days.",
+          "price": 1599,
+          "image": [
+            "/JsonImages/jacket5.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Rain",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        },
+        {
+          "id": 77,
+          "name": "Puffer Jacket",
+          "description": "Lightweight puffer jacket for winter warmth.",
+          "price": 1999,
+          "image": [
+            "/JsonImages/jacket6.avif"
+          ],
+          "sizes": ["S", "M", "L"],
+          "type": "Puffer",
+          "wishlist": true,
+          "whatsapp_contact": "https://wa.me/1234567890"
+        }
+      ]
+    }
+}
+}

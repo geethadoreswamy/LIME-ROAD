@@ -1,0 +1,17 @@
+
+
+body {
+
+    background-color: rgba(236, 227, 227, 0.801);
+    margin: 0;
+    padding: 0;
+  }
+  
+  .App {
+    text-align: center;
+    background-color: rgba(236, 227, 227, 0.801); 
+  }
+  
+  .navbar {
+    background-color:transparent 
+  }

@@ -1,0 +1,141 @@
+/* Existing styles */
+/* Existing styles */
+.add-to-cart-btn, .wishlist-btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  transition: all 0.3s ease;
+}
+
+.wishlist-btn {
+  background-color: #f0f0f0;
+  color: #333;
+  width: 70px;
+  
+ 
+}
+
+.wishlist-btn.in-wishlist {
+  background-color: #ffebee;
+  
+}
+
+.wishlist-btn:hover {
+  background-color: #f5f5f5;
+}
+
+.wishlist-btn.in-wishlist:hover {
+  background-color: #ffcdd2;
+}
+
+.wishlist-icon {
+  font-size: 30px;
+  margin-right: 14px;
+  transition: transform 0.2s ease;
+}
+
+.wishlist-btn:hover .wishlist-icon {
+  transform: scale(1.1);
+}
+
+
+ 
+
+.add-to-cart-btn {
+  background-color: #333;
+  color: white;
+  border-radius: 40px;
+  height:50px;
+  width:260px;
+  font-size:18px;
+}
+
+.wishlist-btn {
+ 
+  color: #333;
+  width:70px;
+ 
+
+}
+.wishlist-icon{
+  font-size:30px;
+  margin-right:30px
+}
+.cart-icon{
+  font-size:30px ;
+}
+
+/* New Filter Sidebar Styles */
+.filter-sidebar {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  height: 650px;
+  width: 200px;
+  margin-right: 150px;
+}
+.price-range-values{
+  display: flex;
+  padding:14px;
+}
+.color-filters{
+  padding:6px;
+  line-height: 30px;
+  margin: 0px;
+}
+.color-filter{
+  padding:5px;
+  display:block;
+}
+.filter-section.input{
+  padding:3px;
+  
+}
+
+/* New styles for rating and icons */
+.rating-stars {
+  display: flex;
+  gap: 4px;
+  color: #ffc107;
+  margin-bottom: 10px;
+  
+}
+
+.whatsapp-icon {
+  color: #25D366;
+  transition: color 0.3s ease;
+}
+
+.whatsapp-icon:hover {
+  color: #128C7E;
+}
+
+.share-icon {
+  color: #5960e1;
+  transition: color 0.3s ease;
+}
+
+.share-icon:hover {
+  color: #45ee64;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .filter-sidebar {
+    grid-column: 1 / -1;
+    margin-bottom: 20px;
+  }
+  
+  .rating-stars {
+    justify-content: center;
+  }
+  
+  .whatsapp-icon, .share-icon {
+    font-size: 20px;
+  }
+}

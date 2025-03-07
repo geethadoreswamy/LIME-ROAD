@@ -1,0 +1,37 @@
+/* Banner.css */
+
+.banner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(236, 227, 227, 0.801); 
+  
+}
+
+.banner-container img {
+  width: 100%;
+  height: auto;
+  max-width: 1200px;
+  object-fit: cover;
+  border-radius: 0px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+}
+
+@media (max-width: 1200px) {
+  .banner-container img {
+    margin-top: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .banner-container img {
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .banner-container img {
+    margin-top: 5px;
+  }
+}

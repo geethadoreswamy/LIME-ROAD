@@ -1,0 +1,285 @@
+{
+"products":{
+"KIDS":{
+    "BABY-WEAR": [
+ {
+ "id": 78,
+  "name": "Baby Cotton Suit",
+  "description": "Soft cotton suit for babies.",
+   "price": 1499, 
+   "image": ["/JsonImages/baby1.avif"],
+  "sizes": ["S", "M", "L"],
+   "type":"Cotton", 
+   "wishlist": true,
+   "whatsapp_contact": "https://wa.me/1234567890"
+ },
+ {
+ "id": 79,
+  "name": "Baby Cotton Suit",
+  "description": "Soft cotton suit for babies.",
+   "price": 2499, 
+   "image": ["/JsonImages/baby2.avif"],
+  "sizes": ["S", "M", "L"],
+   "type":"Cotton", 
+   "wishlist": true,
+   "whatsapp_contact": "https://wa.me/1234567890"
+ },
+ {
+ "id": 80,
+  "name": "Baby Cotton Suit",
+  "description": "Soft cotton suit for babies.",
+   "price": 3499, 
+   "image": ["/JsonImages/baby3.avif"],
+  "sizes": ["S", "M", "L"],
+   "type":"Cotton", 
+   "wishlist": true,
+   "whatsapp_contact": "https://wa.me/1234567890"
+ },
+ {
+ "id": 81,
+  "name": "Baby Cotton Suit",
+  "description": "Soft cotton suit for babies.",
+   "price": 1499, 
+   "image": ["/JsonImages/baby4.avif"],
+  "sizes": ["S", "M", "L"],
+   "type":"Cotton", 
+   "wishlist": true,
+   "whatsapp_contact": "https://wa.me/1234567890"
+ },
+ {
+ "id": 82,
+  "name": "Baby Cotton Suit",
+  "description": "Soft cotton suit for babies.",
+   "price": 499, 
+   "image": ["/JsonImages/baby5.avif"],
+  "sizes": ["S", "M", "L"],
+   "type":"Cotton", 
+   "wishlist": true,
+   "whatsapp_contact": "https://wa.me/1234567890"
+ },
+ {
+ "id": 83,
+  "name": "Baby Cotton Suit",
+  "description": "Soft cotton suit for babies.",
+   "price": 599, 
+   "image": ["/JsonImages/baby6.avif"],
+  "sizes": ["S", "M", "L"],
+   "type":"Cotton", 
+   "wishlist": true,
+   "whatsapp_contact": "https://wa.me/1234567890"
+ }
+],
+"DRESSES":[
+ {
+ "id": 84,
+  "name": "Baby Dresses",
+  "description": "Soft dress for babies.",
+   "price": 1699, 
+   "image": ["/JsonImages/babydress1.avif"],
+  "sizes": ["S", "M", "L"],
+   "type":"Cotton", 
+   "wishlist": true,
+   "whatsapp_contact": "https://wa.me/1234567890"
+ },
+ {
+   "id":85,
+    "name": "Baby Dresses",
+    "description": "Soft dress for babies.",
+     "price": 1799, 
+     "image": ["/JsonImages/babydress2.avif"],
+    "sizes": ["S", "M", "L"],
+     "type":"Cotton", 
+     "wishlist": true,
+     "whatsapp_contact": "https://wa.me/1234567890"
+   },
+   {
+     "id": 86,
+      "name": "Baby Dresses",
+      "description": "Soft dress for babies.",
+       "price": 1899, 
+       "image": ["/JsonImages/babydress3.avif"],
+      "sizes": ["S", "M", "L"],
+       "type":"Cotton", 
+       "wishlist": true,
+       "whatsapp_contact": "https://wa.me/1234567890"
+     },
+     {
+       "id": 87,
+        "name": "Baby Dresses",
+        "description": "Soft dress for babies.",
+         "price": 1499, 
+         "image": ["/JsonImages/babydress4.avif"],
+        "sizes": ["S", "M", "L"],
+         "type":"Cotton", 
+         "wishlist": true,
+         "whatsapp_contact": "https://wa.me/1234567890"
+       },
+       {
+         "id": 88,
+          "name": "Baby Dresses",
+          "description": "Soft dress for babies.",
+           "price": 1599, 
+           "image": ["/JsonImages/babydress5.avif"],
+          "sizes": ["S", "M", "L"],
+           "type":"Cotton", 
+           "wishlist": true,
+           "whatsapp_contact": "https://wa.me/1234567890"
+         },
+         {
+           "id":89,
+            "name": "Baby Dresses",
+            "description": "Soft dress for babies.",
+             "price": 699, 
+             "image": ["/JsonImages/babydress6.avif"],
+            "sizes": ["S", "M", "L"],
+             "type":"Cotton", 
+             "wishlist": true,
+           "whatsapp_contact": "https://wa.me/1234567890"
+           }
+         ],
+         "TOPS":[
+           {
+             "id": 90,
+              "name": "Baby Tops",
+              "description": "Soft tops for babies.",
+               "price": 599, 
+               "image": ["/JsonImages/ktop1.avif"],
+              "sizes": ["S", "M", "L"],
+               "type":"Cotton", 
+               "wishlist": true,
+               "whatsapp_contact": "https://wa.me/1234567890"
+             },
+             {
+               "id": 91,
+                "name": "Baby Tops",
+                "description": "Soft tops for babies.",
+                 "price": 1499, 
+                 "image": ["/JsonImages/ktop2.avif"],
+                "sizes": ["S", "M", "L"],
+                 "type":"Cotton", 
+                 "wishlist": true,
+                 "whatsapp_contact": "https://wa.me/1234567890"
+               },
+               {
+                 "id": 92,
+                  "name": "Baby Tops",
+                  "description": "Soft tops for babies.",
+                   "price": 2499, 
+                   "image": ["/JsonImages/ktop3.avif"],
+                  "sizes": ["S", "M", "L"],
+                   "type":"Cotton", 
+                   "wishlist": true,
+                   "whatsapp_contact": "https://wa.me/1234567890"
+                 },
+                 {
+                   "id":93,
+                    "name": "Baby Tops",
+                    "description": "Soft tops for babies.",
+                     "price": 399, 
+                     "image": ["/JsonImages/ktop4.avif"],
+                    "sizes": ["S", "M", "L"],
+                     "type":"Cotton", 
+                     "wishlist": true,
+                     "whatsapp_contact": "https://wa.me/1234567890"
+                   },
+                   {
+                     "id": 94,
+                      "name": "Baby Tops",
+                      "description": "Soft tops for babies.",
+                       "price": 599, 
+                       "image": ["/JsonImages/ktop5.avif"],
+                      "sizes": ["S", "M", "L"],
+                       "type":"Cotton", 
+                       "wishlist": true,
+                       "whatsapp_contact": "https://wa.me/1234567890"
+                     },
+                     {
+                       "id": 95,
+                        "name": "Baby Tops",
+                        "description": "Soft tops for babies.",
+                         "price": 1499, 
+                         "image": ["/JsonImages/ktop6.avif"],
+                        "sizes": ["S", "M", "L"],
+                         "type":"Cotton", 
+                         "wishlist": true,
+                         "whatsapp_contact": "https://wa.me/1234567890"
+                       }
+                     ],
+                     "SHORTS":[
+                       {
+                         "id": 96,
+                          "name": "Baby bottom wear",
+                          "description": "bottom wear for babies.",
+                           "price": 399, 
+                           "image": ["/JsonImages/shorts1.avif"],
+                          "sizes": ["S", "M", "L"],
+                           "type":"Cotton", 
+                           "wishlist": true,
+                           "whatsapp_contact": "https://wa.me/1234567890"
+                         },
+                         {
+                           "id": 97,
+                            "name": "Baby bottom wear",
+                            "description": "bottom wear for babies.",
+                             "price": 399, 
+                             "image": ["/JsonImages/shorts2.avif"],
+                            "sizes": ["S", "M", "L"],
+                             "type":"Cotton", 
+                             "wishlist": true,
+                             "whatsapp_contact": "https://wa.me/1234567890"
+                           },
+                           {
+                             "id": 98,
+                              "name": "Baby bottom wear",
+                              "description": "bottom wear for babies.",
+                               "price": 799, 
+                               "image": ["/JsonImages/shorts3.avif"],
+                              "sizes": ["S", "M", "L"],
+                               "type":"Cotton", 
+                               "wishlist": true,
+                               "whatsapp_contact": "https://wa.me/1234567890"
+                             },
+                             {
+                               "id": 99,
+                                "name": "Baby bottom wear",
+                                "description": "bottom wear for babies.",
+                                 "price": 899, 
+                                 "image": ["/JsonImages/shorts4.avif"],
+                                "sizes": ["S", "M", "L"],
+                                 "type":"Cotton", 
+                                 "wishlist": true,
+                                 "whatsapp_contact": "https://wa.me/1234567890"
+                               },
+                               {
+                                 "id": 100,
+                                  "name": "Baby bottom wear",
+                                  "description": "bottom wear for babies.",
+                                   "price": 999, 
+                                   "image": ["/JsonImages/shorts5.avif"],
+                                  "sizes": ["S", "M", "L"],
+                                   "type":"Cotton", 
+                                   "wishlist": true,
+                                   "whatsapp_contact": "https://wa.me/1234567890"
+                                 },
+                                 {
+                                   "id": 101,
+                                    "name": "Baby bottom wear",
+                                    "description": "bottom wear for babies.",
+                                     "price": 699, 
+                                     "image": ["/JsonImages/shorts6.avif"],
+                                    "sizes": ["S", "M", "L"],
+                                     "type":"Cotton", 
+                                     "wishlist": true,
+                                     "whatsapp_contact": "https://wa.me/1234567890"
+                                   }
+                                 ]
+                               }
+                             }
+                           }
+
+
+
+
+    
+  
+  

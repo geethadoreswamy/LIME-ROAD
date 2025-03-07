@@ -1,0 +1,93 @@
+.product-icons {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.whatsapp-icon {
+  color: #25D366;
+  font-size: 24px;
+  transition: color 0.3s ease;
+}
+
+.whatsapp-icon:hover {
+  color: #128C7E;
+}
+
+.heart-icon {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  color: #ccc;
+  font-size: 24px;
+  transition: color 0.3s ease;
+}
+
+.heart-icon.active {
+  color: red;
+}
+
+.heart-icon:hover {
+  color: #ff6b6b;
+}
+
+/* Existing CSS styles remain unchanged */
+.products-page {
+  padding: 20px;
+}
+
+.products-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.product-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 8px;
+  transition: box-shadow 0.3s ease;
+}
+
+.product-card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-image {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.product-name {
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+.product-description {
+  color: #666;
+  font-size: 14px;
+}
+
+.product-price {
+  font-weight: bold;
+  color: #333;
+}
+
+.product-sizes {
+  color: #666;
+}
+
+.sizes-letters {
+  font-weight: bold;
+  letter-spacing: 10px;
+}
+
+.product-type {
+  color: #666;
+}
+
+.product-wishlist {
+  color: #666;
+}
